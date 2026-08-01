@@ -1,5 +1,7 @@
 # Quick-HTML-and-CSS-Tutorial
 
+<div dir="rtl" align="right">
+
 # آموزش سریع HTML و CSS
 
 ## 📌 درباره این پروژه
@@ -18,3 +20,5 @@
 
 ## 📄 لایسنس
 MIT
+
+</div>
