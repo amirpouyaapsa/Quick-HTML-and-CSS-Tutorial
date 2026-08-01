@@ -9,7 +9,7 @@
 کسانی که می‌خوان از صفر شروع کنن.
 
 ## 📚 فهرست فصل‌ها
-فصل ۱: مروری سریع بر مفاهیم اولیه  
+[فصل ۱: مروری سریع بر مفاهیم اولیه](https://github.com/amirpouyaapsa/Quick-HTML-and-CSS-Tutorial/blob/main/Season_01/README.md)  
 فصل ۲: ...  
 فصل ۳: ...  
 
