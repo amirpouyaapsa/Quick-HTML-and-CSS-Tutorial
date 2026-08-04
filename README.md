@@ -15,7 +15,7 @@
 
 ## 📚 فهرست فصل‌ها
 [فصل ۱: مروری سریع بر مفاهیم اولیه](https://github.com/amirpouyaapsa/Quick-HTML-and-CSS-Tutorial/blob/main/Season_01/README.md)  
-فصل ۲: به زودی...  
+[فصل ۲: ساختار پایه HTML و CSS](https://github.com/amirpouyaapsa/Quick-HTML-and-CSS-Tutorial/blob/main/Season_02/README.md)  
 فصل ۳: به زودی...  
 
 ## 🚀 نحوه استفاده
