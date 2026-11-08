@@ -1,4 +1,4 @@
-# Quick-HTML-and-CSS-Tutorial
+# Quick-HTML-and-CSS-Tutorial - [README_FA](README_FA.md)
 
 # A Quick HTML and CSS Tutorial
 
