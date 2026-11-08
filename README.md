@@ -1,38 +1,44 @@
 # Quick-HTML-and-CSS-Tutorial
 
-<div dir="rtl" align="right">
+# A Quick HTML and CSS Tutorial
 
-# آموزش سریع HTML و CSS
-یک آموزش گام‌به‌گام و عملی HTML و CSS به زبان فارسی، مناسب برای کسانی که از صفر شروع می‌کنند.
+A step-by-step, hands-on HTML and CSS tutorial in Persian, suitable for those who are starting from scratch.
 
-## 📌 درباره این پروژه
-این ریپوزیتوری مجموعه‌ای از درس‌های طبقه‌بندی‌شده HTML و CSS است که سعی کردم ساده، کاربردی و قابل فهم باشه.  
-هر فصل شامل توضیح مفاهیم + مثال‌های واقعی کد است.
+## 📌 About This Project
 
-## 👤 مخاطب
-- کسانی که هیچ پیش‌زمینه‌ای از برنامه‌نویسی وب ندارن
-- کسانی که می‌خوان سریع مفاهیم پایه رو یاد بگیرن و وارد پروژه‌های واقعی بشن
+This repository is a collection of categorized HTML and CSS lessons that I have tried to make simple, practical, and easy to understand.  
+Each chapter includes concept explanations + real-world code examples.
 
-## 📚 فهرست فصل‌ها
-[فصل ۱: مروری سریع بر مفاهیم اولیه](https://github.com/amirpouyaapsa/Quick-HTML-and-CSS-Tutorial/blob/main/Season_01/README.md)  
-[فصل ۲: ساختار پایه HTML و CSS](https://github.com/amirpouyaapsa/Quick-HTML-and-CSS-Tutorial/blob/main/Season_02/README.md)  
-فصل ۳: به زودی...  
+## 👤 Target Audience
 
-## 🚀 نحوه استفاده
-1. ریپو رو کلون کن:  
-git clone https://github.com/amirpouyaapsa/Quick-HTML-and-CSS-Tutorial.git  
-2. وارد پوشه فصل مورد نظرت شو و فایل‌های examples رو با مرورگر باز کن.  
-3. اگر با مفاهیم پایه آشنایی داری، از فصل دوم شروع کن.  
+- People with no prior knowledge of web programming
+- People who want to quickly learn the basic concepts and move on to real-world projects
 
-## 📩 پیش‌نیازها  
-هیچ پیش‌نیازی لازم نیست!  
-فقط یک ویرایشگر متن (پیشنهاد: VS Code) و یک مرورگر مدرن (Chrome یا Firefox)  
+## 📚 Table of Contents
 
-## 👨‍💻 مشارکت  
-اگر اشتباهی دیدی، پیشنهادی داشتی یا فصل جدیدی می‌خوای اضافه کنی، خیلی خوشحال می‌شم.
-کافیه Issue باز کنی یا Pull Request بفرستی.
+[Chapter 1: A Quick Overview of Basic Concepts](https://github.com/amirpouyaapsa/Quick-HTML-and-CSS-Tutorial/blob/main/Season_01/README.md)  
+[Chapter 2: Basic HTML and CSS Structure](https://github.com/amirpouyaapsa/Quick-HTML-and-CSS-Tutorial/blob/main/Season_02/README.md)  
+Chapter 3: Coming Soon...
 
-## 📄 لایسنس
-این پروژه تحت لایسنس MIT منتشر شده.
+## 🚀 How to Use
 
-</div>
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/amirpouyaapsa/Quick-HTML-and-CSS-Tutorial.git
+   ```
+2. Navigate to your desired chapter folder and open the example files in your browser.
+3. If you are familiar with the basic concepts, start with Chapter 2.
+
+## 📩 Prerequisites
+
+No prerequisites are required!  
+You only need a text editor (recommended: VS Code) and a modern browser (Chrome or Firefox).
+
+## 👨‍💻 Contributions
+
+If you find a mistake, have a suggestion, or want a new chapter to be added, I would be very happy.  
+Simply open an Issue or submit a Pull Request.
+
+## 📄 License
+
+This project is released under the MIT License.
