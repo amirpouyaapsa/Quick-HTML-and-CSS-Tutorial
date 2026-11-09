@@ -1,4 +1,4 @@
-# Quick-HTML-and-CSS-Tutorial - [README_FA](README.md)
+# Quick-HTML-and-CSS-Tutorial - [README](README.md)
 
 <div dir="rtl" align="right">
 
