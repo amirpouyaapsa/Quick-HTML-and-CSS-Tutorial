@@ -34,5 +34,5 @@ git clone https://github.com/amirpouyaapsa/Quick-HTML-and-CSS-Tutorial.git
 
 ## 📄 لایسنس
 این پروژه تحت لایسنس MIT منتشر شده.
-
+.
 </div>
